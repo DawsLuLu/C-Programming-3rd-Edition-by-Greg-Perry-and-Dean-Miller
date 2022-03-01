@@ -9,7 +9,7 @@
 main()
 {
     // Two sets of equivalent variables, with one set
-    // floating-point and theother integer
+    // floating-point and the other integer
     
     float a = 19.0;
     float b = 5.0;
